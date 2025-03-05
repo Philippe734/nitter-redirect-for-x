@@ -19,7 +19,7 @@ cd nitter-redirect-for-x
 web-ext build
 ```
 
-Extension will be in: /home/YourName/nitter-redirect-for-x/web-ext-artifacts/nitter-redirect-for-x-1.1.6.zip
+Extension will be in: /home/YourName/nitter-redirect-for-x/web-ext-artifacts/nitter-redirect-1.1.6.zip
 
 ## Installation on Brave or Chrome
 - Extract the .zip file into a permanent folder, because browser use always the folder for load the extension
