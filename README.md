@@ -8,6 +8,12 @@ No unnecessary permissions required, only listens for and redirects requests mad
 
 Allows for setting custom [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances) and toggling redirects on & off.
 
+## Download for Brave or Chrome
+
+  [1]: https://cloud.githubusercontent.com/assets/24923693/21724562/26754b04-d435-11e6-9654-779c17c2ebcf.png
+  [2]: https://github.com/Philippe734/nitter-redirect-for-x/releases
+ZIP file : [![Linux][1]][2]
+
 ## Build on Linux
 
 ```
